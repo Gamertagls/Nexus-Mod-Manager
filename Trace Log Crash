@@ -1,0 +1,250 @@
+I keep on getting this crash whenever I try to open the manager for Fallout 3. Please Help. Thank you.
+
+Trace file has been created: TraceLog20181225000059.txt
+Mod Manager Version: 0.65.2.0
+OS version: Microsoft Windows NT 6.2.9200.0
+Installed .NET Versions:
+	CDF SP 0
+	v2.0.50727 SP 2
+	v3.0 SP 2
+	v3.5 SP 1
+	v4 SP 0
+	v4.0 SP 0
+	v4.5: 4.6 or later
+Tracing is forced: False
+
+Discovering Game Mode Factories...
+    Looking in: C:\Program Files\Nexus Mod Manager\GameModes
+    Checking: BreakingWheel.dll
+        Initializing: Nexus.Client.Games.BreakingWheel.BreakingWheelGameModeFactory
+    Checking: DarkSouls.dll
+        Initializing: Nexus.Client.Games.DarkSouls.DarkSoulsGameModeFactory
+    Checking: DarkSouls2.dll
+        Initializing: Nexus.Client.Games.DarkSouls2.DarkSouls2GameModeFactory
+    Checking: DragonAge.dll
+        Initializing: Nexus.Client.Games.DragonAge.DragonAgeGameModeFactory
+    Checking: DragonAge2.dll
+        Initializing: Nexus.Client.Games.DragonAge2.DragonAge2GameModeFactory
+    Checking: DragonsDogma.dll
+        Initializing: Nexus.Client.Games.DragonsDogma.DragonsDogmaGameModeFactory
+    Checking: Fallout3.CSharpScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Fallout3.CSharpScript.dll: cannot find dependency CSharpScript, Version=1.1.6689.33167, Culture=neutral, PublicKeyToken=null
+    Checking: Fallout3.dll
+        Initializing: Nexus.Client.Games.Fallout3.Fallout3GameModeFactory
+    Checking: Fallout3.XmlScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Fallout3.XmlScript.dll: cannot find dependency AntlrUtil, Version=1.1.6689.33167, Culture=neutral, PublicKeyToken=null
+    Checking: Fallout4.CSharpScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Fallout4.CSharpScript.dll: cannot find dependency CSharpScript, Version=1.1.6689.33167, Culture=neutral, PublicKeyToken=null
+    Checking: Fallout4.dll
+        Initializing: Nexus.Client.Games.Fallout4.Fallout4GameModeFactory
+    Checking: Fallout4.XmlScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Fallout4.XmlScript.dll: cannot find dependency AntlrUtil, Version=1.1.6689.33167, Culture=neutral, PublicKeyToken=null
+    Checking: FalloutNV.CSharpScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\FalloutNV.CSharpScript.dll: cannot find dependency CSharpScript, Version=1.1.6689.33167, Culture=neutral, PublicKeyToken=null
+    Checking: FalloutNV.dll
+        Initializing: Nexus.Client.Games.FalloutNV.FalloutNVGameModeFactory
+    Checking: FalloutNV.XmlScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\FalloutNV.XmlScript.dll: cannot find dependency AntlrUtil, Version=1.1.6689.33167, Culture=neutral, PublicKeyToken=null
+    Checking: GamebryoBase.dll
+    Checking: Grimrock.dll
+        Initializing: Nexus.Client.Games.Grimrock.GrimrockGameModeFactory
+    Checking: Morrowind.dll
+        Initializing: Nexus.Client.Games.Morrowind.MorrowindGameModeFactory
+    Checking: Morrowind.ModScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Morrowind.ModScript.dll: cannot find dependency ModScript, Version=1.1.6689.33168, Culture=neutral, PublicKeyToken=null
+    Checking: NoMansSky.dll
+        Initializing: Nexus.Client.Games.NoMansSky.NoMansSkyGameModeFactory
+    Checking: Oblivion.dll
+        Initializing: Nexus.Client.Games.Oblivion.OblivionGameModeFactory
+    Checking: Oblivion.ModScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Oblivion.ModScript.dll: cannot find dependency ModScript, Version=1.1.6689.33168, Culture=neutral, PublicKeyToken=null
+    Checking: Skyrim.CSharpScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Skyrim.CSharpScript.dll: cannot find dependency CSharpScript, Version=1.1.6689.33167, Culture=neutral, PublicKeyToken=null
+    Checking: Skyrim.dll
+        Initializing: Nexus.Client.Games.Skyrim.SkyrimGameModeFactory
+    Checking: Skyrim.XmlScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\Skyrim.XmlScript.dll: cannot find dependency AntlrUtil, Version=1.1.6689.33167, Culture=neutral, PublicKeyToken=null
+    Checking: SkyrimSE.CSharpScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\SkyrimSE.CSharpScript.dll: cannot find dependency CSharpScript, Version=1.1.6689.33167, Culture=neutral, PublicKeyToken=null
+    Checking: SkyrimSE.dll
+        Initializing: Nexus.Client.Games.SkyrimSE.SkyrimSEGameModeFactory
+    Checking: SkyrimSE.XmlScript.dll
+        Cannot load C:\Program Files\Nexus Mod Manager\GameModes\SkyrimSE.XmlScript.dll: cannot find dependency AntlrUtil, Version=1.1.6689.33167, Culture=neutral, PublicKeyToken=null
+    Checking: Starbound.dll
+        Initializing: Nexus.Client.Games.Starbound.StarboundGameModeFactory
+    Checking: StateOfDecay.dll
+        Initializing: Nexus.Client.Games.StateOfDecay.StateOfDecayGameModeFactory
+    Checking: TESO.dll
+        Initializing: Nexus.Client.Games.TESO.TESOGameModeFactory
+    Checking: WarThunder.dll
+        Initializing: Nexus.Client.Games.WarThunder.WarThunderGameModeFactory
+    Checking: Witcher2.dll
+        Initializing: Nexus.Client.Games.Witcher2.Witcher2GameModeFactory
+    Checking: Witcher3.dll
+        Initializing: Nexus.Client.Games.Witcher3.Witcher3GameModeFactory
+    Checking: WorldOfTanks.dll
+        Initializing: Nexus.Client.Games.WorldOfTanks.WoTGameModeFactory
+    Checking: XCOM2.dll
+        Initializing: Nexus.Client.Games.XCOM2.XCOM2GameModeFactory
+    Checking: XRebirth.dll
+        Initializing: Nexus.Client.Games.XRebirth.XRebirthGameModeFactory
+Loading Game Mode Factories for Installed Games...
+    Loading Fallout3: Supported
+    Loading FalloutNV: Supported
+Determining Game Mode: Fallout3
+Game Mode Factory Selected: Fallout 3 (Fallout3)
+Creating Game Mode mutex (Attempt: 0)
+Checking DLCs location.
+    Anchorage...Done
+    ThePitt...Done
+    BrokenSteel...Done
+    PointLookout...Done
+    Zeta...Done
+Game Mode Built: Fallout 3 (Fallout3)
+    Installation Path: c:\steam\steam\steamapps\common\Fallout 3
+    Install Info Path: c:\Games\Nexus Mod Manager\Fallout3\Install Info
+    Mod Path: c:\Games\Nexus Mod Manager\Fallout3\Mods
+    Mod Cache Path: c:\Games\Nexus Mod Manager\Fallout3\Mods\cache
+    Mod Download Cache: c:\Games\Nexus Mod Manager\Fallout3\Mods\downloads
+    Overwrite Path: c:\Games\Nexus Mod Manager\Fallout3\Install Info\overwrites
+    Virtual Install Path: c:\Games\Nexus Mod Manager\Fallout3\Mods
+    NMM Link Path: 
+Scanning for read-only files...
+Initializing Mod Repository...
+Registering supported Script Types...
+    Discovering Script Types...
+        Discovering Generic Script Types...
+            Looking in: C:\Program Files\Nexus Mod Manager\ScriptTypes
+            Checking: Antlr3.Runtime.dll
+            Checking: AntlrUtil.dll
+            Checking: CSharpScript.dll
+                Initializing: Nexus.Client.ModManagement.Scripting.CSharpScript.CSharpScriptType
+            Checking: ModScript.dll
+                Initializing: Nexus.Client.ModManagement.Scripting.ModScript.ModScriptType
+            Checking: XmlScript.dll
+                Initializing: Nexus.Client.ModManagement.Scripting.XmlScript.XmlScriptType
+        Discovering Game Mode Specific Script Types...
+            Looking in: C:\Program Files\Nexus Mod Manager\GameModes
+            Checking: Fallout3.CSharpScript.dll
+                Initializing: Nexus.Client.Games.Fallout3.Scripting.CSharpScript.Fallout3CSharpScriptType
+            Checking: Fallout3.XmlScript.dll
+                Initializing: Nexus.Client.Games.Fallout3.Scripting.XmlScript.Fallout3XmlScriptType
+    Found 3 script types.
+Registering supported mod formats...
+    Discovering Mod Formats...
+        Looking in: C:\Program Files\Nexus Mod Manager\ModFormats
+        Checking: FOMod.dll
+            Initializing: Nexus.Client.Mods.Formats.FOMod.FOModFormat
+    Found 1 formats.
+Finding managed mods...
+    Discovering Managed Mods...
+        Looking in: c:\Games\Nexus Mod Manager\Fallout3\Mods
+        Found: c:\Games\Nexus Mod Manager\Fallout3\Mods\FWE 6-03a HOTFIX PATCH-2761 (2).7z
+            Registered.
+        Found: c:\Games\Nexus Mod Manager\Fallout3\Mods\FWE 6-03a HOTFIX PATCH-2761.7z
+            Registered.
+        Found: c:\Games\Nexus Mod Manager\Fallout3\Mods\FWE Master Release 6-0 - Part 1-2761.7z
+            Registered.
+        Found: c:\Games\Nexus Mod Manager\Fallout3\Mods\FWE Master Release 6-0 - Part 2-2761.7z
+            Registered.
+    Found 4 managed mods.
+Initializing Install Log...
+    Checking if upgrade is required...
+    Path: c:\Games\Nexus Mod Manager\Fallout3\Install Info\InstallLog.xml
+    Loaded from XML.
+    Found Dummy Mod: ORIGINAL_VALUE...OK
+Initializing Plugin Management Services...
+    Initializing Plugin Registry...
+        Discovering Managed Plugins...
+            Discovering Plugins...
+                Looking in: c:\steam\steam\steamapps\common\Fallout 3\Data
+                Found: c:\steam\steam\steamapps\common\Fallout 3\Data\Fallout3.esm
+            Found: c:\steam\steam\steamapps\common\Fallout 3\Data\Fallout3.esm
+                Registered.
+        Found 1 managed plugins.
+    Initializing Plugin Order Log...
+        Loading Plugin Order...
+            Getting Plugin Load Order from the load order manager...
+            Loading c:\steam\steam\steamapps\common\Fallout 3\Data\Fallout3.esm (IsNull=False)
+    Initializing Active Plugin Log...
+    Initializing Plugin Manager...
+Initializing Activity Monitor...
+Initializing Mod Activation Monitor...
+Initializing Mod Manager...
+Upgrading replaced Mods...
+Uninstalling missing Mods...
+Loading mods that are queued to be added.
+Launch Commands:
+    Plain Command: c:\steam\steam\steamapps\common\Fallout 3\fallout3.exe (IsNull=False)
+    FOSE Command: c:\steam\steam\steamapps\common\Fallout 3\fose_loader.exe (IsNull=False)
+    Custom Command:  (IsNull=True)
+Launch Commands:
+    BOSS Command:  (IsNull=True)
+    LOOT Command:  (IsNull=True)
+Loading Plugins into Plugin List: 1
+    Loading: Fallout3.esm (c:\steam\steam\steamapps\common\Fallout 3\Data\Fallout3.esm) (False)
+Setting up listener on Nexus Mod Manager-Fallout3IpcServer/Fallout3Listener at 2018-12-25 00:01:04
+Running Application.
+Checking for new client version...
+    Could not connect to update server: The remote server returned an error: (403) Forbidden.
+    
+    Tracing an Unhandled Exception:
+    Exception: 
+Message: 
+	The process cannot access the file 'C:\Users\0000\AppData\Local\Black_Tree_Gaming\NexusClient.exe_Url_2eir2d35cqbpwgw1etv4i5pyvaneja0r\0.65.2.0\5xqot401.newcfg' because it is being used by another process.
+Full Trace: 
+	System.IO.IOException: The process cannot access the file 'C:\Users\0000\AppData\Local\Black_Tree_Gaming\NexusClient.exe_Url_2eir2d35cqbpwgw1etv4i5pyvaneja0r\0.65.2.0\5xqot401.newcfg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.IO.File.OpenFile(String path, FileAccess access, SafeFileHandle& handle)
+   at System.IO.File.SetCreationTimeUtc(String path, DateTime creationTimeUtc)
+   at System.Configuration.Internal.WriteFileContext.DuplicateFileAttributes(String source, String destination)
+   at System.Configuration.Internal.WriteFileContext.Complete(String filename, Boolean success)
+   at System.Configuration.Internal.InternalConfigHost.StaticWriteCompleted(String streamName, Boolean success, Object writeContext, Boolean assertPermissions)
+   at System.Configuration.ClientSettingsStore.ClientSettingsConfigurationHost.WriteCompleted(String streamName, Boolean success, Object writeContext)
+   at System.Configuration.UpdateConfigHost.WriteCompleted(String streamName, Boolean success, Object writeContext)
+   at System.Configuration.MgmtConfigurationRecord.SaveAs(String filename, ConfigurationSaveMode saveMode, Boolean forceUpdateAll)
+   at System.Configuration.ClientSettingsStore.WriteSettings(String sectionName, Boolean isRoaming, IDictionary newSettings)
+   at System.Configuration.LocalFileSettingsProvider.SetPropertyValues(SettingsContext context, SettingsPropertyValueCollection values)
+   at System.Configuration.SettingsBase.SaveCore()
+   at System.Configuration.SettingsBase.Save()
+   at System.Configuration.ApplicationSettingsBase.Save()
+   at System.Windows.Forms.ColumnWidthChangedEventHandler.Invoke(Object sender, ColumnWidthChangedEventArgs e)
+   at System.Windows.Forms.ListView.OnColumnWidthChanged(ColumnWidthChangedEventArgs e)
+   at System.Windows.Forms.ListView.WmNotify(Message& m)
+   at System.Windows.Forms.ListView.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+    
+    Tracing an Unhandled Exception:
+    Exception: 
+Message: 
+	The process cannot access the file 'C:\Users\0000\AppData\Local\Black_Tree_Gaming\NexusClient.exe_Url_2eir2d35cqbpwgw1etv4i5pyvaneja0r\0.65.2.0\x1pdtb0r.newcfg' because it is being used by another process.
+Full Trace: 
+	System.IO.IOException: The process cannot access the file 'C:\Users\0000\AppData\Local\Black_Tree_Gaming\NexusClient.exe_Url_2eir2d35cqbpwgw1etv4i5pyvaneja0r\0.65.2.0\x1pdtb0r.newcfg' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.IO.File.OpenFile(String path, FileAccess access, SafeFileHandle& handle)
+   at System.IO.File.SetCreationTimeUtc(String path, DateTime creationTimeUtc)
+   at System.Configuration.Internal.WriteFileContext.DuplicateFileAttributes(String source, String destination)
+   at System.Configuration.Internal.WriteFileContext.Complete(String filename, Boolean success)
+   at System.Configuration.Internal.InternalConfigHost.StaticWriteCompleted(String streamName, Boolean success, Object writeContext, Boolean assertPermissions)
+   at System.Configuration.ClientSettingsStore.ClientSettingsConfigurationHost.WriteCompleted(String streamName, Boolean success, Object writeContext)
+   at System.Configuration.UpdateConfigHost.WriteCompleted(String streamName, Boolean success, Object writeContext)
+   at System.Configuration.MgmtConfigurationRecord.SaveAs(String filename, ConfigurationSaveMode saveMode, Boolean forceUpdateAll)
+   at System.Configuration.ClientSettingsStore.WriteSettings(String sectionName, Boolean isRoaming, IDictionary newSettings)
+   at System.Configuration.LocalFileSettingsProvider.SetPropertyValues(SettingsContext context, SettingsPropertyValueCollection values)
+   at System.Configuration.SettingsBase.SaveCore()
+   at System.Configuration.SettingsBase.Save()
+   at System.Configuration.ApplicationSettingsBase.Save()
+   at System.Windows.Forms.Form.OnFormClosing(FormClosingEventArgs e)
+   at System.Windows.Forms.Form.RaiseFormClosingOnAppExit()
+   at System.Windows.Forms.Application.ExitInternal()
+   at System.Windows.Forms.Application.Exit(CancelEventArgs e)
+   at Nexus.Client.Program.Application_ThreadException(Object sender, ThreadExceptionEventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.OnThreadException(Exception t)
+   at System.Windows.Forms.Control.WndProcException(Exception e)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
